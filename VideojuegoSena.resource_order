@@ -18,7 +18,9 @@
   ],
   "ResourceOrderSettings": [
     {"name":"ObjectWall","order":1,"path":"objects/ObjectWall/ObjectWall.yy",},
+    {"name":"Terrain","order":2,"path":"objects/Terrain/Terrain.yy",},
     {"name":"PlayerSpriteRun","order":2,"path":"sprites/PlayerSpriteRun/PlayerSpriteRun.yy",},
     {"name":"WallBorderSprite","order":1,"path":"sprites/WallBorderSprite/WallBorderSprite.yy",},
+    {"name":"PixelGreen","order":3,"path":"sprites/PixelGreen/PixelGreen.yy",},
   ],
 }
